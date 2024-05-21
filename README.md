@@ -1,4 +1,4 @@
-# Sliding Puzzle Solver in Python using Pygame
+# Sliding Puzzle Solver
 
 This project presents a Python implementation of a sliding puzzle game along with a solver algorithm, all wrapped up in a sleek Pygame interface. The game allows players to interactively solve the puzzle or sit back and watch the solver algorithm do its magic.
 
@@ -13,16 +13,19 @@ This project presents a Python implementation of a sliding puzzle game along wit
 - Click "Redraw" to shuffle the puzzle tiles.
 - Click "Solve" to watch the solver algorithm in action.
 
+## Next Steps
+1. **Offer Hints:** Provide hints to the user, allowing them to see the next step of the solution if desired.
+2. **Confirm Give Up:** Display a dialog box when the "Resolve" button is clicked, asking the user if they are sure they want to give up.
+3. **Statistics Export:** Collect user input (e.g., name) and offer to export puzzle-solving statistics as a document at the end of each session.
+4. **Difficulty Levels:** Introduce difficulty levels to customize the puzzle challenge.
+
 ## Tech Stack
 - **Python:** Leveraging the versatile language for game logic and algorithm implementation.
 - **Pygame:** Powering the graphical user interface and event handling for smooth interactions.
 - **Git:** Utilizing version control for collaborative development and project management.
 
-## Next Steps
-- Enhance solver efficiency for larger puzzle sizes.
-- Implement additional puzzle-solving algorithms for comparison.
-- Introduce more customization options for players, such as board size and tile themes.
+## Author
+- **GitHub:** [@yishayt2004](https://github.com/yishayt2004)
+- **Email:** ishayshlomotiram@gmail.com
 
 This project is a testament to the fusion of gaming, problem-solving, and software development, offering both entertainment and educational value. Ready to slide into the world of puzzles? Let the games begin!
-
-For any questions or feedback, feel free to reach out to [Yishay Tiram](https://github.com/yishayt2004) or email at ishayshlomotiram@gmail.com.
